@@ -52,9 +52,7 @@
 
 ### 📊 GitHub Activities
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api?username=michaelsof47&show_icons=true&theme=tokyonight" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api/top-langs/?username=michaelsof47&layout=compact&theme=tokyonight" width="350" />
+  <a href="https://github.com/michaelsof47">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=michaelsof47&theme=tokyonight" width="100%" />
+  </a>
 </p>
