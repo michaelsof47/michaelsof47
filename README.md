@@ -51,8 +51,10 @@
 ---
 
 ### 📊 GitHub Activities
-*Gunakan link langsung (Direct Link) untuk menghindari filter GitHub:*
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api?username=michaelsof47&show_icons=true&theme=tokyonight" width="400" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelsof47&show_icons=true&theme=dark" width="400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api/top-langs/?username=michaelsof47&layout=compact&theme=tokyonight" width="350" />
 </p>
