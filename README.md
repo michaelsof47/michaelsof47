@@ -28,9 +28,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelsof47&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsof47&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelsof47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Michael's GitHub Stats" width="480" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsof47&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Michael's Top Languages" width="380" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelsof47&theme=tokyonight&hide_border=true" alt="Michael's Streak" width="480" />
 </p>
