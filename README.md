@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Michael Fernando</h1>
-<h3 align="center">Software Engineer | Mobile Apps Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Michael%20Fernando&fontSize=70" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=michaelsof47&label=Profile%20views&color=0e75b6&style=flat" alt="michaelsof47" />
@@ -21,22 +22,18 @@
 <a href="https://www.linkedin.com/in/michael-fernando-s-m-94264b117/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-### 🛠 Languages and Tools:
+### 🛠 Tech Stack:
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=android,flutter,kotlin,java,nodejs,firebase,docker,github,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=android,flutter,kotlin,java,nodejs,firebase,docker,github,mysql,postman,py,sqlite,swift,figma" />
 </p>
 
 ---
 
-### 📊 My GitHub Metrics
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelsof47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Michael's GitHub Stats" width="480" />
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelsof47&show_icons=true&theme=transparent&hide_border=true" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsof47&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Michael's Top Languages" width="380" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelsof47&theme=tokyonight&hide_border=true" alt="Michael's Streak" width="480" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelsof47&theme=transparent&hide_border=true" width="450" />
 </p>
